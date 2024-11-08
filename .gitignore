@@ -1,0 +1,18 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment configuration files
+.env
+*.env
+
+# Add any other files you want to ignore here...
+Scripts/
+Lib/
+share/
