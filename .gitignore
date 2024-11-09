@@ -16,3 +16,6 @@ __pycache__/
 Scripts/
 Lib/
 share/
+
+pyvenv.cfg
+myenv/
